@@ -41,6 +41,14 @@
             "membership", 
             "membership.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "Form1", 
+            "Form1.json"
+          ]
         }
       ], 
       "configxml": null, 
