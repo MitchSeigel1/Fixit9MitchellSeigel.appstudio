@@ -14,7 +14,7 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "Form1", 
+        "twoControls", 
         "Elements", 
         "calcAnswer.json"
       ]
@@ -23,7 +23,7 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "Form1", 
+        "twoControls", 
         "Elements", 
         "Header1.json"
       ]
@@ -32,7 +32,7 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "Form1", 
+        "twoControls", 
         "Elements", 
         "inptNum11.json"
       ]
@@ -41,7 +41,7 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "Form1", 
+        "twoControls", 
         "Elements", 
         "inptNum22.json"
       ]
@@ -50,7 +50,7 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "Form1", 
+        "twoControls", 
         "Elements", 
         "Switch1.json"
       ]
@@ -59,7 +59,7 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "Form1", 
+        "twoControls", 
         "Elements", 
         "Label2.json"
       ]
@@ -71,7 +71,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "Form1", 
+  "id": "twoControls", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
