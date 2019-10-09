@@ -13,3 +13,7 @@ if (opperator === '+') {
   lblAnswer.value = num1 / num2
   }
 }
+
+btnClear.onclick=function(){
+  lblAnswer.value = " "
+}

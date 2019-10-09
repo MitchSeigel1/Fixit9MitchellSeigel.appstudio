@@ -28,14 +28,14 @@
   "hidden": "", 
   "icon": "", 
   "iconTitle": "", 
-  "id": "btnEqualls", 
-  "left": 52, 
+  "id": "btnClear", 
+  "left": 186, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
   "mRight": "", 
   "mTop": "", 
-  "onclick": "btnEqualls.onclick()", 
+  "onclick": "btnClear.onclick()", 
   "onmousedown": "", 
   "onmousemove": "", 
   "onmouseout": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 354, 
-  "value": "=", 
-  "width": 84
+  "top": 355, 
+  "value": "Clear", 
+  "width": "auto"
 }

@@ -4,9 +4,9 @@
   "attributes": "", 
   "background": "", 
   "backgroundimage": "", 
-  "borderColor": "", 
-  "borderStyle": "", 
-  "borderWidth": "", 
+  "borderColor": "#00FFFF", 
+  "borderStyle": "solid", 
+  "borderWidth": "10", 
   "cached_js": null, 
   "cached_js_script_hash": null, 
   "children": [
@@ -14,63 +14,54 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "calculator", 
+        "Form1", 
         "Elements", 
-        "Label1.json"
+        "calcAnswer.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "calculator", 
+        "Form1", 
         "Elements", 
-        "btnEqualls.json"
+        "Header1.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "calculator", 
+        "Form1", 
         "Elements", 
-        "lblAnswer.json"
+        "inptNum11.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "calculator", 
+        "Form1", 
         "Elements", 
-        "inptNum1.json"
+        "inptNum22.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "calculator", 
+        "Form1", 
         "Elements", 
-        "inptOpp.json"
+        "Switch1.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "calculator", 
+        "Form1", 
         "Elements", 
-        "inptNum2.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "calculator", 
-        "Elements", 
-        "btnClear.json"
+        "Label2.json"
       ]
     }
   ], 
@@ -80,7 +71,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "calculator", 
+  "id": "Form1", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
